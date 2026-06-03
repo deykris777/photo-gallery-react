@@ -16,3 +16,4 @@ A simple photo gallery app built with React, Vite, and Tailwind CSS.
 ## Run locally
 npm install
 npm run dev
+
